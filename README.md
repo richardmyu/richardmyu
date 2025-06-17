@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E6%82%9F%E5%B7%B2%E5%BE%80%E4%B9%8B%E4%B8%8D%E8%B0%8F%EF%BC%8C%E7%9F%A5%E6%9D%A5%E8%80%85%E4%B9%8B%E5%8F%AF%E8%BF%BD%E3%80%82)](https://git.io/typing-svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richardmyu)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardmyu)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richardmyu) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardmyu)
